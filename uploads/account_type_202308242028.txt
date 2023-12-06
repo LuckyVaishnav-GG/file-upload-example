@@ -1,0 +1,9 @@
+|id |accountTypeName    |
+|---|-------------------|
+|2  |GOLD               |
+|4  |UANG_KANTOR        |
+|5  |UANG_KAS           |
+|1  |POINTS             |
+|6  |SD_OFFLINE         |
+|3  |SALARY_DISBURSEMENT|
+|0  |EWA                |

@@ -1,0 +1,27 @@
+|transCategoryName             |createdAt              |updatedAt              |suspendedAt|id   |transCategoryColor|tag        |displayname   |
+|------------------------------|-----------------------|-----------------------|-----------|-----|------------------|-----------|--------------|
+|Milvik Consultation           |2022-11-21 19:55:53.868|                       |           |BP-18|#000000           |BILLPAYMENT|Milvik Voucher|
+|Voucher Game prepaid          |2021-03-23 15:01:40.000|                       |           |BP-14|#000000           |BILLPAYMENT|              |
+|Telkom postpaid               |2021-03-23 15:01:40.000|                       |           |BP-12|#000000           |BILLPAYMENT|              |
+|Streaming 1 prepaid           |2021-03-23 15:01:40.000|                       |           |BP-11|#000000           |BILLPAYMENT|              |
+|Pembayaran Angsuran postpaid  |2021-03-23 15:01:40.000|                       |           |BP-09|#000000           |BILLPAYMENT|              |
+|Kartu Kredit postpaid         |2021-03-23 15:01:40.000|                       |           |BP-04|#000000           |BILLPAYMENT|              |
+|Internet dan TV Kabel postpaid|2021-03-23 15:01:40.000|                       |           |BP-03|#000000           |BILLPAYMENT|              |
+|Gas 1 postpaid                |2021-03-23 15:01:40.000|                       |           |BP-02|#000000           |BILLPAYMENT|              |
+|BPJS postpaid                 |2021-03-23 15:01:40.000|                       |           |BP-01|#000000           |BILLPAYMENT|              |
+|Campaign                      |2022-05-20 04:14:01.028|                       |           |CM-01|#8F4399           |Campaign   |Campaign      |
+|Listrik prepaid               |2021-03-23 15:01:40.000|                       |           |BP-05|#77BE43           |BILLPAYMENT|Token PLN     |
+|Pulsa prepaid                 |2021-03-23 15:01:40.000|                       |           |BP-10|#F8B24F           |BILLPAYMENT|Pulsa         |
+|Voucher Digital prepaid       |2021-03-23 15:01:40.000|                       |           |BP-13|#6AA0F6           |BILLPAYMENT|Voucher       |
+|Penarikan                     |2021-03-23 15:01:40.836|2021-03-15 12:06:09.000|           |WD-01|#E1E7FC           |WITHDRAWAL |Tarik Gaji    |
+|PDAM postpaid                 |2021-03-23 15:01:40.000|                       |           |BP-06|#000000           |BILLPAYMENT|PDAM          |
+|Pascabayar postpaid           |2021-03-23 15:01:40.000|                       |           |BP-08|#000000           |BILLPAYMENT|Pascabayar    |
+|Paket Data prepaid            |2021-03-23 15:01:40.000|                       |           |BP-07|#F7E6F8           |BILLPAYMENT|Paket Data    |
+|eMoney prepaid                |2021-03-23 15:01:40.000|                       |           |BP-15|#F7E6F8           |BILLPAYMENT|eMoney        |
+|Listrik postpaid              |2021-07-07 03:07:41.816|                       |           |BP-17|#000000           |BILLPAYMENT|Tagihan PLN   |
+|Pembayaran Gaji               |2022-06-11 09:19:21.721|                       |           |GT-01|#000000           |GT_SALARY  |              |
+|Dari GajiGesa                 |2021-03-23 15:01:40.836|                       |           |GG-01|#E1E7FC           |           |Dari GajiGesa |
+|Salary Transfer               |2023-03-02 06:29:41.814|                       |           |WD-02|#E1E7FC           |WITHDRAWAL |Tarik Gaji    |
+|Zakat Fitrah                  |2023-03-13 12:24:53.511|                       |           |BP-29|#000000           |BILLPAYMENT|Zakat Fitrah  |
+|Gold                          |2023-06-21 08:33:30.196|                       |           |GD-01|#000000           |GOLD       |              |
+|Loan                          |2023-07-24 05:37:59.321|                       |           |LP-01|#000000           |LOAN       |e-Kasbon      |
